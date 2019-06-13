@@ -1,0 +1,48 @@
+metadata,category,readcode,readterm,medcode
+Name: cirrhosis_cprd,2,J612000,Alcoholic fibrosis and sclerosis of liver,21713
+Version: 1,2,J613.00,Alcoholic liver damage unspecified,7885
+Source: CPRD,3,J615z15,Hepatic fibrosis,71453
+Author: Constantinos Parisinos/ Valerie Kuan,3,J61y400,Hepatic fibrosis,25383
+Date: 01 Jan 2017,3,J61y500,Hepatic sclerosis,60104
+Categories:,3,J61y600,Hepatic fibrosis with hepatic sclerosis,100592
+1. H/O,3,J61y300,Portal fibrosis without cirrhosis,40963
+2. Possible alcoholic cirrhosis,3,J616.00,Biliary cirrhosis,9494
+3. Cirrhosis,3,J616z00,Biliary cirrhosis NOS,58630
+4. Alcoholic cirrhosis,3,J623.00,Portal hypertension,5129
+5. Non alcoholic/ unspecified cirrhosis,4,J613000,Alcoholic hepatic failure,17330
+6. Congenital cirrhosis,4,J617000,Chronic alcoholic hepatitis,7602
+,4,J617.00,Alcoholic hepatitis,7943
+,4,G852300,Oesophageal varices in alcoholic cirrhosis of the liver,8363
+,4,J612.00,Alcoholic cirrhosis of liver,4743
+,4,J612.12,Laennec's cirrhosis,100474
+,5,C310400,Glycogenosis with hepatic cirrhosis,19512
+,5,C350012,Pigmentary cirrhosis of liver,8206
+,5,C370800,Cystic fibrosis related cirrhosis,102922
+,5,G852200,Oesophageal varices in cirrhosis of the liver,26319
+,5,J612.11,Florid cirrhosis,68376
+,5,J615100,Multilobular portal cirrhosis,69204
+,5,J615300,Diffuse nodular cirrhosis,3450
+,5,J615400,Fatty portal cirrhosis,44676
+,5,J615500,Hypertrophic portal cirrhosis,92909
+,5,J615600,Capsular portal cirrhosis,40567
+,5,J615700,Cardiac portal cirrhosis,27438
+,5,J615711,Congestive cirrhosis,108819
+,5,J615C00,Xanthomatous portal cirrhosis,100253
+,5,J615D00,Bacterial portal cirrhosis,73482
+,5,J615G00,Zooparasitic portal cirrhosis,109540
+,5,J615H00,Infectious cirrhosis NOS,48928
+,5,J615.00,Cirrhosis - non alcoholic,16725
+,5,J615.11,Portal cirrhosis,47257
+,5,J615y00,Portal cirrhosis unspecified,55454
+,5,J615z00,Non-alcoholic cirrhosis NOS,16455
+,5,J615z11,Macronodular cirrhosis of liver,22841
+,5,J615z12,Cryptogenic cirrhosis of liver,18739
+,5,J615z13,Cirrhosis of liver NOS,1638
+,5,J616100,Secondary biliary cirrhosis,15424
+,5,J61..00,Cirrhosis and chronic liver disease,6863
+,5,J635600,Toxic liver disease with fibrosis and cirrhosis of liver,44120
+,5,Jyu7100,[X]Other and unspecified cirrhosis of liver,6015
+,6,J615800,Juvenile portal cirrhosis,96664
+,6,J615812,Indian childhood cirrhosis,58184
+,6,J616200,Biliary cirrhosis of children,91591
+,6,Q48yz11,Congenital hepatic fibrosis,34642

@@ -1,14 +1,14 @@
 metadata,category,readcode,readterm,medcode
-Myelodysplastic syndrome,1,B937.14,Alcoholic fibrosis and sclerosis of liver,14927
-Myelodysplastic syndrome,1,B937000,Alcoholic liver damage unspecified,22890
-Myelodysplastic syndrome,1,B937100,Hepatic fibrosis,10817
-Myelodysplastic syndrome,1,B937200,Hepatic fibrosis,23875
-Myelodysplastic syndrome,1,B937300,Hepatic sclerosis,44420
-Myelodysplastic syndrome,1,B937W00,Hepatic fibrosis with hepatic sclerosis,45285
-Myelodysplastic syndrome,1,B937W11,Portal fibrosis without cirrhosis,4561
-Myelodysplastic syndrome,1,B937X00,Biliary cirrhosis,19130
-Myelodysplastic syndrome,1,BBmA.00,Biliary cirrhosis NOS,56756
-Myelodysplastic syndrome,1,BBmB.00,Portal hypertension,60186
-Myelodysplastic syndrome,1,BBmL.00,Alcoholic hepatic failure,94921
-Myelodysplastic syndrome,1,ByuHD00,Chronic alcoholic hepatitis,45143
-,1,D213.00,Alcoholic hepatitis,16052
+Myelodysplastic syndrome1,1,B937.14,Alcoholic fibrosis and sclerosis of liver,14927
+Myelodysplastic syndrome2,1,B937000,Alcoholic liver damage unspecified,22890
+Myelodysplastic syndrome3,1,B937100,Hepatic fibrosis1,10817
+Myelodysplastic syndrome4,1,B937200,Hepatic fibrosis,23875
+Myelodysplastic syndrome5,1,B937300,Hepatic sclerosis1,44420
+Myelodysplastic syndrome6,1,B937W00,Hepatic fibrosis with hepatic sclerosis,45285
+Myelodysplastic syndrome7,1,B937W11,Portal fibrosis without cirrhosis,4561
+Myelodysplastic syndrome8,1,B937X00,Biliary cirrhosis,19130
+Myelodysplastic syndrome9,1,BBmA.00,Biliary cirrhosis NOS,56756
+Myelodysplastic syndrome10,1,BBmB.00,Portal hypertension,60186
+Myelodysplastic syndrome11,1,BBmL.00,Alcoholic hepatic failure,94921
+Myelodysplastic syndrome12,1,ByuHD00,Chronic alcoholic hepatitis,45143
+Myelodysplastic syndrome13,1,D213.00,Alcoholic hepatitis,16052
